@@ -1,0 +1,39 @@
+/*
+* Harper Dell'Orefice
+* 18 October 2018
+* Schedule
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+
+table, td, th {
+    border: 2px solid #b424ff;
+    font-size: 16px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    background-color: #00d6ff;
+}
+
+tfoot {
+    background-color: #0015ff;
+    color: azure;
+}
